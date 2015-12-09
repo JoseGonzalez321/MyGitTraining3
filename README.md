@@ -6,4 +6,5 @@
 
 Mastery by George Leonard
 
-Written by Jose Gonzalez
+##Author
+Jose Gonzalez

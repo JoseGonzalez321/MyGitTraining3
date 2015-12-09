@@ -5,3 +5,5 @@
 > Pratice for the sake of practice.
 
 Mastery by George Leonard
+
+Written by Jose Gonzalez
